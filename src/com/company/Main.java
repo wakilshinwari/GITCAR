@@ -3,6 +3,7 @@ package com.company;
 import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 public class Main {
+<<<<<<< Updated upstream
     public static void main(String[] args) {
 
         //the basic structure
@@ -14,3 +15,9 @@ public class Main {
         System.out.println(car.color);
     }
 }
+=======
+    //the basic structure
+    CarBasics car = new CarBasics();
+    
+}
+>>>>>>> Stashed changes
